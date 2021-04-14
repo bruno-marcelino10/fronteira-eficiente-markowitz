@@ -1,0 +1,1 @@
+O presente projeto consiste na construção e análise da fronteira eficiente de Markowitz para diferentes ações operantes na bolsa brasileira ao longo do período de 10 (dez) anos que se inicia em 2010. Todos os cálculos foram feitos utilizando a linguagem R, bem como os gráficos gerados.
